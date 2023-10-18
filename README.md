@@ -1,5 +1,5 @@
 # iNaturalist 2021 32x32 px
-Resized 32x32 images for the iNaturalist 2021 training and validation sets.  Resize script is included.
+Resized 32x32 images for the iNaturalist 2021 training mini and validation sets.  Resize script is included.
 
 [Original 2021 data](https://github.com/visipedia/inat_comp/tree/master/2021#data)
 
